@@ -1,8 +1,8 @@
-# parrot-perch
+# Parrot Perch
 
 Parrot Perch is a single page application with interactive chat rooms where users can watch Twitch and Youtube streams, play games, and chat. It was developed by [Chelsea Santucci](https://github.com/sachieko), [Anthony Campbell](https://github.com/anthonycampbell), and I.
 
-##### Tech Stack
+#### Tech Stack
 
 Front-end: Reactjs
 Back-end: Node.js, Express.js, socket.io
