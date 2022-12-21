@@ -10,6 +10,7 @@ Back-end: Node.js, Express.js, socket.io
 Other: Twitch API, Youtube API, Axios, Bcrypt, Bootstrap, SASS, Lodash
 
 
+## Screenshots
 
 !["Create Room"](https://github.com/rfll/parrot-perch/blob/main/backend/docs/Screen%20Shot%202022-12-12%20at%204.10.15%20PM.png)
 
